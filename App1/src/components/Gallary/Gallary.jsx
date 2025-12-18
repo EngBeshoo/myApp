@@ -25,7 +25,7 @@ export default function Gallary() {
 
 
   return <>
-  <section className="portfolio py-5" id="portfolio">
+  <section className="portfolio py-5 bg-white" id="portfolio">
         <div className='container'>
           <div className='row py-3 text-center justify-content-center'>
             <h2 className='fw-bold text-center py-3 mb-2 text-uppercase'>Portfolio</h2>
